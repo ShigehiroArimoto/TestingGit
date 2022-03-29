@@ -1,2 +1,2 @@
 # TestingGit
-A repository for testing GIT add
+A repository for testing GIT
